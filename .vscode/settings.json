@@ -1,0 +1,20 @@
+{
+    "cSpell.words": [
+        "adminlogin"
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5001,
+            "driver": "MySQL",
+            "name": "ms",
+            "database": "employees",
+            "username": "root"
+        }
+    ]
+}
